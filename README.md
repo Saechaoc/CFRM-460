@@ -14,6 +14,6 @@ Topics covered include the following:
 * Vector and matrix arithmetic, determinants, eigenvalue-eigenvector decomposition, singular value decomposition
 * Numerical methods for optimization
 
-Upon completion of the course students will know the fundamental mathematical concepts needed to 
+Upon completion of the course students I know the fundamental mathematical concepts needed to 
 effectively study quantitative finance areas such as fixed income, options and derivatives, portfolio optimization, 
 and quantitative risk management.
